@@ -1,0 +1,255 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.85112769,9.009782071 ]
+    },
+    "properties": {
+    "Name":"Sunny Side Hotel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.84729474,9.010372376 ]
+    },
+    "properties": {
+    "Name":"BruhWay Hotel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.8511724,9.011685443 ]
+    },
+    "properties": {
+    "Name":"Chanoly Noodles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.84915291,9.010761408 ]
+    },
+    "properties": {
+    "Name":"Deborah School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.85121111,9.010691025 ]
+    },
+    "properties": {
+    "Name":"Roomi Burger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.85132041,9.012036846 ]
+    },
+    "properties": {
+    "Name":"Simple Bistro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.85130239,9.013088262 ]
+    },
+    "properties": {
+    "Name":"L-Classic R & B"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.85203982,9.013972654 ]
+    },
+    "properties": {
+    "Name":"The Cake Studio"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.85137262,9.015611375 ]
+    },
+    "properties": {
+    "Name":"Burgerizza"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.85278195,9.015625564 ]
+    },
+    "properties": {
+    "Name":"Alema Supermarket"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.84490762,9.013947269 ]
+    },
+    "properties": {
+    "Name":"Safari Academy 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.84679593,9.010825825 ]
+    },
+    "properties": {
+    "Name":"Federal Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.84310439,9.010919298 ]
+    },
+    "properties": {
+    "Name":"Auto Spa car detailing and wash"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.84806491,9.013345306 ]
+    },
+    "properties": {
+    "Name":"Afro Mile Trading PLC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.85160021,9.016698793 ]
+    },
+    "properties": {
+    "Name":"Bona Ppeti Cafe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.85268701,9.017558708 ]
+    },
+    "properties": {
+    "Name":"Mebirat Mini Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.85298958,9.017217182 ]
+    },
+    "properties": {
+    "Name":"Gold Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.85157551,9.018107589 ]
+    },
+    "properties": {
+    "Name":"IN-Joy Burger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.85686851,9.019416862 ]
+    },
+    "properties": {
+    "Name":"Dream Massage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.84959229,9.021579091 ]
+    },
+    "properties": {
+    "Name":"Mamokacha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.85363054,9.020588828 ]
+    },
+    "properties": {
+    "Name":"Angla Burger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.85145268,9.016859941 ]
+    },
+    "properties": {
+    "Name":"Metro Bakery & Pastry"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.85138451,9.015651166 ]
+    },
+    "properties": {
+    "Name":"Safeway Supermarket"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.85276428,9.016049181 ]
+    },
+    "properties": {
+    "Name":"CBE Birr Agent"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.85351659,9.016575748 ]
+    },
+    "properties": {
+    "Name":"Toyba Mini Market"
+    }
+  }
+]
+}
